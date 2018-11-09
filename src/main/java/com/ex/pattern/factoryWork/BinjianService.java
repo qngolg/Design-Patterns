@@ -1,4 +1,4 @@
-package com.ex.work.factory;
+package com.ex.pattern.factoryWork;
 
 /**
  * @Author qiangl
